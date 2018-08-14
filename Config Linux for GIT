@@ -1,1 +1,31 @@
-test
+
+
+git config --global user.name gooshie
+git config --global user.email 4983604+gooshie@users.noreply.github.com
+git config -l
+
+
+
+
+ssh-keygen -t rsa -b 4096 -C 4983604+gooshie@users.noreply.github.com
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+sudo apt-get install xclip
+xclip -sel clip < ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+
+
+
+
+git clone git@github.com:joshuaflanagan/gitk-demo.git
+cd gitk-demo
+gitk --all
+git clone git@github.com:gooshie/HelloWorld.git
+cd ../HelloWorld/
+nano
+ls
+git add .
+get commit
+git push
+gitk --all
+
