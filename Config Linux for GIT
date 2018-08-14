@@ -15,9 +15,10 @@ git config -l
 
 # Create and Test keys
 ssh-keygen -t rsa -b 4096 -C 4983604+gooshie@users.noreply.github.com
+# [Press Enter at Prompt]
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
-sudo apt-get install xclip
+sudo apt-get install xclip | sudo pacman -S xclip
 xclip -sel clip < ~/.ssh/id_rsa.pub
 ssh -T git@github.com
 
