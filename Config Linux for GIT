@@ -8,28 +8,28 @@ git config --global user.name gooshie
 git config --global user.email 4983604+gooshie@users.noreply.github.com
 git config -l
 
-# Create a config file in ~/.ssh
-# Host github.com
-#   Hostname ssh.github.com
-#   Port 443
-
 # Create and Test keys
 ssh-keygen -t rsa -b 4096 -C 4983604+gooshie@users.noreply.github.com
 # [Press Enter at Prompt]
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
-sudo apt-get install xclip | sudo pacman -S xclip
+sudo apt-get install xclip |or| sudo pacman -S xclip
 xclip -sel clip < ~/.ssh/id_rsa.pub
-# Paste key into github settings
+# Paste key into GitHub settings: https://github.com/settings/keys
 ssh -T git@github.com
+
+# Create a config file in ~/.ssh with 3 lines:
+Host github.com
+  Hostname ssh.github.com
+  Port 443
 
 git help -g
 git help tutorial
 
 git clone git@github.com:joshuaflanagan/gitk-demo.git
 cd gitk-demo
-sudo apt install gitk | sudo pacman -S qgit
-gitk --all | qgit --all
+sudo apt install gitk |or| sudo pacman -S qgit
+gitk --all |or| qgit --all
 git clone git@github.com:gooshie/HelloWorld.git
 cd ../HelloWorld/
 
@@ -38,4 +38,4 @@ nano
 git add .
 get commit
 git push
-gitk --all | qgit --all
+gitk --all |or| qgit --all
