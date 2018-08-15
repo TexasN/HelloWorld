@@ -35,7 +35,6 @@ cd ../HelloWorld/
 
 # Create new file and push to Remote Repo
 nano
-git add .
-get commit
+git add .  |or| git commit -am "Message describing edits for the commit."
+get commit |or| git commit -m "Message describing edits for the commit."
 git push
-gitk --all |or| qgit --all 
