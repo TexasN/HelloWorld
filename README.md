@@ -1,5 +1,9 @@
 # HelloWorld
-Learning Git
+
+## Learning Git on GitHub and markdown in README.md
+
+Fork me to help create a comprehensive website for
+using git on github.com, gitlabs, and bitbucket.
 
 1. **[help.github.com](https://help.github.com/)** - GitHub's how to use git on GitHub.com
 1. [rogerdudler.github.io/git-guide](http://rogerdudler.github.io/git-guide/) - git - the simple guide
