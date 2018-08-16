@@ -1,6 +1,10 @@
 # HelloWorld
 Learning Git
 
+1. **[help.github.com](https://help.github.com/)** - GitHub's how to use git on GitHub.com
+1. [rogerdudler.github.io/git-guide](http://rogerdudler.github.io/git-guide/) - git - the simple guide
+
+
 <!---
 
 # Markdown
