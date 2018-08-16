@@ -8,7 +8,7 @@ git config --global user.name gooshie
 git config --global user.email 4983604+gooshie@users.noreply.github.com
 git config -l
 
-# Without keys or storing password: clone, pull, push
+# PUSH without keys or storing password
 git push https://gooshie:<PASSWORD>@github.com/gooshie/HelloWorld.git
 NO BASH HISTORY: git push https://gooshie@github.com/gooshie/HelloWorld.git
 MAYBE BETTER ???: git push -u HelloWorld --all
@@ -43,3 +43,9 @@ nano
 git add .  |or| git commit -am "Message describing edits for the commit."
 get commit |or| git commit -m "Message describing edits for the commit."
 git push
+
+# Initiating a LOCAL repo requires adding repo on remote by webpage interface
+git add --all
+git commit -am "Adding Initial Local Files"
+git push
+
