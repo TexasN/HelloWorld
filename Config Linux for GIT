@@ -10,7 +10,7 @@ git config -l
 
 # Without keys or storing password: clone, pull, push
 git push https://gooshie:<PASSWORD>@github.com/gooshie/HelloWorld.git
-BETTER: git push https://gooshie@github.com/gooshie/HelloWorld.git
+NO BASH HISTORY: git push https://gooshie@github.com/gooshie/HelloWorld.git
 
 # Create and Test keys
 ssh-keygen -t rsa -b 4096 -C 4983604+gooshie@users.noreply.github.com
