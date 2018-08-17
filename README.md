@@ -2,28 +2,32 @@
 
 ## Learning Git on GitHub and markdown in README.md
 
-Fork me to help create a comprehensive website for
+Fork me to help create a comprehensive website for ![alt text](http://www.home.unix-ag.org/simon/penguin/penguin.svg "Linux Mascot: Tux")
 using git on github.com, gitlabs, and bitbucket.
 
 1. Hello World - Hello GitHub [guides.github.com](https://guides.github.com/activities/hello-world/)
-1. [rogerdudler.github.io/git-guide](http://rogerdudler.github.io/git-guide/) - git - the simple guide
-1. **[help.github.com](https://help.github.com/)** - GitHub's how to use git on GitHub.com
+1. Simple git Guide [rogerdudler.github.io/git-guide](http://rogerdudler.github.io/git-guide/)
+1. **GitHub's** - How to Use git **[help.github.com](https://help.github.com/)**
 1. Markdown Cheatsheet [github.com/adam-p/markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-1. Mastering **README.md** Markdown [guides.github.com](https://guides.github.com/features/mastering-markdown/)
+1. Mastering **README.md** (Markdown) [guides.github.com](https://guides.github.com/features/mastering-markdown/)
 1. On Demand Training [services.github.com](https://services.github.com/on-demand/)
 1. GitHub Training & Guides [youtube.com/githubguides](https://www.youtube.com/githubguides)
+1. Emoji cheat sheet [webfx.com/tools/emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 
 
 
 
-[![TravisCI Status](https://travis-ci.org/qbittorrent/search-plugins.svg?branch=master)](https://travis-ci.org/qbittorrent/search-plugins)
 
-![alt text](http://www.home.unix-ag.org/simon/penguin/penguin.svg "Linux Mascot: Tux")
 
 
 
 <!---
+
+[![TravisCI Status](https://travis-ci.org/qbittorrent/search-plugins.svg?branch=master)](https://travis-ci.org/qbittorrent/search-plugins)
+
+
+
 
 # Markdown
 A markdown example shows how to write a markdown file. This document integrates core syntax and extensions (GMF).
