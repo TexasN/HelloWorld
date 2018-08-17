@@ -8,10 +8,10 @@ using git on github.com, gitlabs, and bitbucket.
 1. Hello World - Hello GitHub [guides.github.com](https://guides.github.com/activities/hello-world/)
 1. [rogerdudler.github.io/git-guide](http://rogerdudler.github.io/git-guide/) - git - the simple guide
 1. **[help.github.com](https://help.github.com/)** - GitHub's how to use git on GitHub.com
+1. Markdown Cheatsheet [github.com/adam-p/markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 1. Mastering **README.md** Markdown [guides.github.com](https://guides.github.com/features/mastering-markdown/)
 1. On Demand Training [services.github.com](https://services.github.com/on-demand/)
 1. GitHub Training & Guides [youtube.com/githubguides](https://www.youtube.com/githubguides)
-
 
 
 
