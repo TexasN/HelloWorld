@@ -13,7 +13,7 @@ using git on github.com, gitlabs, and bitbucket.
 1. GitHub Training & Guides [youtube.com/githubguides](https://www.youtube.com/githubguides)
 
 
-
+[![TravisCI Status](https://travis-ci.org/qbittorrent/search-plugins.svg?branch=master)](https://travis-ci.org/qbittorrent/search-plugins)
 
 
 <!---
