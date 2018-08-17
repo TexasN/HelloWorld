@@ -17,7 +17,6 @@ using git on github.com, gitlabs, and bitbucket.
 
 
 
-
 [![TravisCI Status](https://travis-ci.org/qbittorrent/search-plugins.svg?branch=master)](https://travis-ci.org/qbittorrent/search-plugins)
 
 ![alt text](http://www.home.unix-ag.org/simon/penguin/penguin.svg "Linux Mascot: Tux")
