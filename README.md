@@ -15,6 +15,11 @@ using git on github.com, gitlabs, and bitbucket.
 1. **GitHub's** Training & Guides => **[youtube.com/githubguides](https://www.youtube.com/githubguides)**
 1. Emoji cheat sheet => [webfx.com/tools/emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
+---------
+
+**[My custom domain hosted on GitHub](http://cantankerouscomputers.com/)**
+
+---------
 
 ![alt text](http://www.home.unix-ag.org/simon/penguin/penguin.svg "Linux Mascot: Tux")
 
