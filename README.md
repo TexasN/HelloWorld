@@ -5,6 +5,7 @@
 Fork me to help create a comprehensive website for
 using git on github.com, gitlabs, and bitbucket.
 
+1. **Why** & How to Become a Git and GitHub Master => [freecodecamp.org](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
 1. Hello World - Hello GitHub => [guides.github.com](https://guides.github.com/activities/hello-world/)
 1. Simple git Guide => [rogerdudler.github.io/git-guide](http://rogerdudler.github.io/git-guide/)
 1. **GitHub's** - How to Use git => **[help.github.com](https://help.github.com/)**
