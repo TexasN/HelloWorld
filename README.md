@@ -1,4 +1,4 @@
-# HelloWorld
+﻿# HelloWorld
 
 ## Learning Git on GitHub and markdown in README.md
 
@@ -18,6 +18,9 @@ using git on github.com, gitlabs, and bitbucket.
 ---------
 
 **[My custom domain hosted on GitHub](http://cantankerouscomputers.com/)**
+
+**[Texas' github profile](https://github.com/TexasN)**
+
 
 ---------
 
